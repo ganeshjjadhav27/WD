@@ -1,0 +1,17 @@
+books { 
+	color: white; 
+	background-color : pink; 
+	width: 100%; 
+} 
+heading { 
+	color: black; 
+	font-size : 40px; 
+	background-color : powderblue; 
+} 
+heading, title, author, publisher, edition { 
+	display : table; 
+} 
+title { 
+	font-size : 25px; 
+	font-weight : bold; 
+} 
